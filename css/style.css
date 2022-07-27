@@ -37,3 +37,20 @@ body {
   border: none;
   font-size: 1rem;
 }
+
+/* =====================
+  Casual Shoes Section  
+===================== */
+.casualTitle{
+  font-family: 'Bebas Neue', cursive;
+  font-size: 48px;
+  color: #3C3C3C;
+  /* letter-spacing: 0.25rem; */
+}
+.cardTitle {
+  font-family: 'Roboto', sans-serif;
+  font-size: 24px;
+}
+.infoSec {
+  margin-top: 100px;
+}
